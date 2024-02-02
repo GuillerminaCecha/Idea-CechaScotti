@@ -1,0 +1,153 @@
+[
+    {
+        "id": "alimento-01",
+        "titulo": "Miel de abeja x 500 grs",
+        "imagen": "./img/alimentos/01.jpg",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "alimento-02",
+        "titulo": "Caramelos duros x 100 grs",
+        "imagen": "./img/alimentos/02.jpg",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "alimento-03",
+        "titulo": "Polen de abeja x 100 grs",
+        "imagen": "./img/alimentos/03.jpg",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "alimento-04",
+        "titulo": "Jalea real x 10 grs",
+        "imagen": "./img/alimentos/04.jpg",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "alimento-05",
+        "titulo": "Apisana",
+        "imagen": "./img/alimentos/05.jpg",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "indumentaria-01",
+        "titulo": "Careta Cuadrada",
+        "imagen": "./img/indumentaria/01.jpg",
+        "categoria": {
+            "nombre": "Indumentaria",
+            "id": "indumentaria"
+        },
+        "precio": 9900
+    },
+    {
+        "id": "indumentaria-02",
+        "titulo": "Buzo Apicultor Con Careta",
+        "imagen": "./img/indumentaria/02.jpg",
+        "categoria": {
+            "nombre": "Indumentaria",
+            "id": "indumentaria"
+        },
+        "precio": 44500
+    },
+    {
+        "id": "indumentaria-03",
+        "titulo": "Guantes Vacuno Hidrófugo",
+        "imagen": "./img/indumentaria/03.jpg",
+        "categoria": {
+            "nombre": "Indumentaria",
+            "id": "indumentaria"
+        },
+        "precio": 14000
+    },
+    {
+        "id": "indumentaria-04",
+        "titulo": "Guantes De Piel",
+        "imagen": "./img/indumentaria/04.jpg",
+        "categoria": {
+            "nombre": "Indumentaria",
+            "id": "indumentaria"
+        },
+        "precio": 7900
+    },
+    {
+        "id": "indumentaria-05",
+        "titulo": "Careta Redonda",
+        "imagen": "./img/indumentaria/05.jpg",
+        "categoria": {
+            "nombre": "Indumentaria",
+            "id": "indumentaria"
+        },
+        "precio": 8900
+    },
+
+    {
+        "id": "cosmetica-01",
+        "titulo": "Mascarilla capilar x 250 ml",
+        "imagen": "./img/cosmetica/01.jpg",
+        "categoria": {
+            "nombre": "Cosmetica",
+            "id": "cosmetica"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "cosmetica-02",
+        "titulo": "Tintura de propóleo",
+        "imagen": "./img/cosmetica/02.jpg",
+        "categoria": {
+            "nombre": "Cosmetica",
+            "id": "cosmetica"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "cosmetica-03",
+        "titulo": "Jabón de Jalea Real",
+        "imagen": "./img/cosmetica/03.jpg",
+        "categoria": {
+            "nombre": "Cosmetica",
+            "id": "cosmetica"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "cosmetica-04",
+        "titulo": "Leche Corporal x 500 ml",
+        "imagen": "./img/cosmetica/04.jpg",
+        "categoria": {
+            "nombre": "Cosmetica",
+            "id": "cosmetica"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "cosmetica-05",
+        "titulo": "Crema facial x 100 ml",
+        "imagen": "./img/cosmetica/05.jpg",
+        "categoria": {
+            "nombre": "Cosmetica",
+            "id": "cosmetica"
+        },
+        "precio": 5000
+    }
+]
