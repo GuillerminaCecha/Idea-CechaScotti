@@ -208,7 +208,7 @@ main {
     background-color: #e8df9c;
     color: #c08618;
     padding: .5rem;
-    padding-right: 1.5rem;
+    padding-right: 1rem;
     border-radius: 1rem;
 }
 
@@ -218,7 +218,7 @@ main {
 }
 
 .carrito-producto small {
-    font-size: .75rem;
+    font-size: 1rem;
 }
 
 .carrito-producto-eliminar {
