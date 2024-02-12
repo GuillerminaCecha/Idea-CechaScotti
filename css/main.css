@@ -29,7 +29,7 @@ a {
 aside {
     padding: 2rem;
     padding-right: 0;
-    color: black;
+    color: #ececec;
     position: sticky;
     top: 0;
     height: 100vh;
@@ -41,9 +41,9 @@ aside {
 .logo {
     font-weight: 600;
     font-size: 1.6rem;
-    background-color:#ffe87c;
+    background-color:#c08618;
     text-align: center;
-    border-radius: .5rem;
+    border-radius: 2rem;
 }
 
 .menu {
